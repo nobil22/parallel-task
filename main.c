@@ -61,7 +61,7 @@ void login (void)
         if(strcmp(username,l.username)==0 && strcmp(password,l.password)==0)
 
             {   
-                printf("\nSuccessful Login\n");
+                printf("\Logged nSuccessfuly\n");
             }
         else 
             {
